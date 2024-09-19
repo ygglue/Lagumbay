@@ -1,0 +1,15 @@
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\PS_03\bin\Debug\net8.0\PS_03.exe
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\PS_03\bin\Debug\net8.0\PS_03.deps.json
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\PS_03\bin\Debug\net8.0\PS_03.runtimeconfig.json
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\PS_03\bin\Debug\net8.0\PS_03.dll
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\PS_03\bin\Debug\net8.0\PS_03.pdb
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\PS_03\obj\Debug\net8.0\PS_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\PS_03\obj\Debug\net8.0\PS_03.AssemblyInfoInputs.cache
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\PS_03\obj\Debug\net8.0\PS_03.AssemblyInfo.cs
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\PS_03\obj\Debug\net8.0\PS_03.csproj.CoreCompileInputs.cache
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\PS_03\obj\Debug\net8.0\PS_03.sourcelink.json
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\PS_03\obj\Debug\net8.0\PS_03.dll
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\PS_03\obj\Debug\net8.0\refint\PS_03.dll
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\PS_03\obj\Debug\net8.0\PS_03.pdb
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\PS_03\obj\Debug\net8.0\PS_03.genruntimeconfig.cache
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\PS_03\obj\Debug\net8.0\ref\PS_03.dll

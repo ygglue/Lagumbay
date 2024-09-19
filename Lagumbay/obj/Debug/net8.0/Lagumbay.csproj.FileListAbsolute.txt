@@ -1,0 +1,15 @@
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\Lagumbay\bin\Debug\net8.0\Lagumbay.exe
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\Lagumbay\bin\Debug\net8.0\Lagumbay.deps.json
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\Lagumbay\bin\Debug\net8.0\Lagumbay.runtimeconfig.json
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\Lagumbay\bin\Debug\net8.0\Lagumbay.dll
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\Lagumbay\bin\Debug\net8.0\Lagumbay.pdb
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\Lagumbay\obj\Debug\net8.0\Lagumbay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\Lagumbay\obj\Debug\net8.0\Lagumbay.AssemblyInfoInputs.cache
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\Lagumbay\obj\Debug\net8.0\Lagumbay.AssemblyInfo.cs
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\Lagumbay\obj\Debug\net8.0\Lagumbay.csproj.CoreCompileInputs.cache
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\Lagumbay\obj\Debug\net8.0\Lagumbay.sourcelink.json
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\Lagumbay\obj\Debug\net8.0\Lagumbay.dll
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\Lagumbay\obj\Debug\net8.0\refint\Lagumbay.dll
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\Lagumbay\obj\Debug\net8.0\Lagumbay.pdb
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\Lagumbay\obj\Debug\net8.0\Lagumbay.genruntimeconfig.cache
+C:\Users\iHub30PC\Documents\Elibap\Lagumbay\Lagumbay\obj\Debug\net8.0\ref\Lagumbay.dll

@@ -5,6 +5,10 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lagumbay", "Lagumbay\Lagumbay.csproj", "{D508FDA1-66B8-40AE-AEFF-4C75C2084725}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS_03", "PS_03\PS_03.csproj", "{36079427-F7E7-4698-8F3D-E3CCDBA1228C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS_03_LeapYear", "PS_03_LeapYear\PS_03_LeapYear.csproj", "{AE668C14-B0FC-4262-9A8F-04535ABCC85D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{D508FDA1-66B8-40AE-AEFF-4C75C2084725}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D508FDA1-66B8-40AE-AEFF-4C75C2084725}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D508FDA1-66B8-40AE-AEFF-4C75C2084725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36079427-F7E7-4698-8F3D-E3CCDBA1228C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36079427-F7E7-4698-8F3D-E3CCDBA1228C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36079427-F7E7-4698-8F3D-E3CCDBA1228C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36079427-F7E7-4698-8F3D-E3CCDBA1228C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE668C14-B0FC-4262-9A8F-04535ABCC85D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE668C14-B0FC-4262-9A8F-04535ABCC85D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE668C14-B0FC-4262-9A8F-04535ABCC85D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE668C14-B0FC-4262-9A8F-04535ABCC85D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
